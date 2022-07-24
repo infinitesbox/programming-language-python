@@ -6,9 +6,11 @@ In this Level you will find all the Basic of Python.
 ---
 You have an example of Project.
 <br>
-This Project is not complete but you have some Code.
+This Project is not complete but you have Some Lines of Code.
 <br>
 <br>
-Even you do not know how to do completely, the important you have some code to find the good way. 
+So you can try to do the same thing for one of your Project (Game: Chess, ...).
 <br>
-Just use comments to replace after with the lines of code. 
+Even you do not know how to do completely, the most important you have Some Lines of Code to Find the Good Way. 
+<br>
+Just use comments to replace after with Lines of Code. 
