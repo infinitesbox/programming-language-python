@@ -11,4 +11,4 @@ This Project is not complete but you will have some Code.
 <br>
 Even you do not know how to do completely, the important you have some code to find the good way. 
 <br>
-Just use comments to replace after. 
+Just use comments to replace after with the lines of code. 
