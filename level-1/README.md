@@ -6,7 +6,7 @@ In this Level you will find all the Basic of Python.
 ---
 You have an example of Project.
 <br>
-This Project is not complete but you will have some Code.
+This Project is not complete but you have some Code.
 <br>
 <br>
 Even you do not know how to do completely, the important you have some code to find the good way. 
