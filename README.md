@@ -1,6 +1,6 @@
 # Playground - Python
 
-![Playground - Python](./images/programming-language.png)
+![PProject](./images/project-default.png)
 
 Get acquainted with the Programming Language, Python.
 <br>
@@ -12,8 +12,11 @@ Try it!
 
 ### Blog
 ---
-- English - [Programming Language – Python](http://infinitesparkbox.local/blog/2022/07/17/programming-language-python/)
+- English - [Programming Language – Python](http://infinitesparkbox.com/blog/2022/07/17/programming-language-python/)
 
-- Français - [Langage De Programmation – Python](http://infinitesparkbox.local/blog/2022/07/20/langage-de-programmation-python/)
+- Français - [Langage De Programmation – Python](http://infinitesparkbox.com/blog/2022/07/20/langage-de-programmation-python/)
+<br><br>
 
-
+### Tutorial
+---
+- [Official Python Website](https://docs.python.org/3.12/tutorial/index.html)
